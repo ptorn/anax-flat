@@ -1,0 +1,11 @@
+#
+# This is a Anax base for rewriting all requests to the frontcontroller
+# index.php, if the target route is not a file or a directory.
+#
+RewriteEngine on
+
+# Rewrite to Anax frontcontroller
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+RewriteRule (.*) index.php/$1 [NC,L]
