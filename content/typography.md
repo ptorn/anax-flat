@@ -29,13 +29,6 @@ Här kör vi en lista på färger.
 * Röd
 * Grön
 
-Sen kan vi ju testa en numererad lista.
-
-1. Gul
-2. Blå
-3. Röd
-4. Grön
-
 ######Detta är en h6
 
 Här kan vi testa att skriva både fet och kursivt. ***Så här ser det ut***.
