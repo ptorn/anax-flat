@@ -48,7 +48,7 @@ return [
 
             "analysis" => [
                 "text"  => t("Analys"),
-                "url"   => $this->di->get("url")->create("analysis"),
+                "url"   => $this->di->get("url")->create("analysis/intro"),
                 "title" => t("Analys av 4 sidor"),
                 "mark-if-parent" => true,
             ],
@@ -112,7 +112,7 @@ return [
                 "url"   => $this->di->get("url")->create("typography"),
                 "title" => t("Testa typografi"),
             ],
-            
+
             "analysis" => [
                 "text"  => t("Analys"),
                 "url"   => $this->di->get("url")->create("analysis"),

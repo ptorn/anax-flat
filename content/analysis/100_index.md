@@ -26,7 +26,7 @@ Så nu ska vi se hur dom framstår enligt färganalysen.
 
 </ul>
 
-Skulle säga att färgschemat är **monokromt** i grunden då det endast används en blå färg som är begränsad till 3 väldigt nära nyanser utav blått. Därefter följs den utav en gråskala med några få nyanser för font och ikoner. Dom har jobbat med större bilder för att få in lite fler färger som i detta fallet blommorna som tillhör denna blåafärgen i ett triadiskt färgschema. Så med bilden blir det **triadiskt**.
+Skulle säga att färgschemat är **monokromt** i grunden då det endast används en blå färg som är begränsad till 3 väldigt nära nyanser utav blått. Därefter följs den utav en gråskala med några få nyanser för font och ikoner. Dom har jobbat med större bilder för att få in lite fler färger som i detta fallet blommorna som tillhör denna blåafärgen i ett triadiskt färgschema. Så med bilden så används en färg till som finns i ett **triadiskt** färgschema.
 
 ###Typografi###
 Som font så använder webbplatsen **StagSansWeb Medium** (Sans-serif) till h1-h6 samt **StagSansWeb Book** (Sans-serif) som brödtext. Som reserv font används Arial och Sans-Serif
