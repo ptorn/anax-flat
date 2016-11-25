@@ -69,7 +69,7 @@ Grönt upplevs lugnande och uppfriskande. Färgen grön står bland annat för f
 
 [Python.org](https://www.python.org/) är den tredje webbplatsen som jag har valt att analysera. Här ser man att färgerna har sin grund i deras logotyp.
 
-###Färgpalette###class="dark"
+###Färgpalette###
 
 <ul class="color-scheme">
     <li class="dark" style="background-color: #89b4d9;">1</li>

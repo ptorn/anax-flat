@@ -118,6 +118,7 @@ Dessa valde jag just för att det ska stick ut lite att jag använder en annan f
 ##Fun##
 Till detta typografiska tema så byggde jag det på temat "colorful".
 Jag körde på med lite animationer för att göra det lite crazy!
+
 ###Färgpalette###
 
 <ul class="color-scheme">
