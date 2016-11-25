@@ -46,6 +46,20 @@ return [
                 "title" => t("Testa typografi"),
             ],
 
+            "analysis" => [
+                "text"  => t("Analys"),
+                "url"   => $this->di->get("url")->create("analysis"),
+                "title" => t("Analys av 4 sidor"),
+                "mark-if-parent" => true,
+            ],
+
+            "theme" => [
+                "text"  => t("Teman"),
+                "url"   => $this->di->get("url")->create("theme"),
+                "title" => t("Teman"),
+            ],
+
+
             "testcode" => [
                 "text"  => t("Testa Kod"),
                 "url"   => $this->di->get("url")->create("testcode"),
@@ -85,6 +99,31 @@ return [
                 "text"  => t("Om Sidan"),
                 "url"   => $this->di->get("url")->create("about"),
                 "title" => t("Om Sidan")
+            ],
+
+            "grid" => [
+                "text"  => t("Grid"),
+                "url"   => $this->di->get("url")->create("grid"),
+                "title" => t("Visa kolumner"),
+            ],
+
+            "typography" => [
+                "text"  => t("Typografi"),
+                "url"   => $this->di->get("url")->create("typography"),
+                "title" => t("Testa typografi"),
+            ],
+            
+            "analysis" => [
+                "text"  => t("Analys"),
+                "url"   => $this->di->get("url")->create("analysis"),
+                "title" => t("Analys av 4 sidor"),
+                "mark-if-parent" => true,
+            ],
+
+            "theme" => [
+                "text"  => t("Teman"),
+                "url"   => $this->di->get("url")->create("theme"),
+                "title" => t("Teman"),
             ],
 
             "testcode" => [
