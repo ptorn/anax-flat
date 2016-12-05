@@ -34,36 +34,59 @@ return [
                 "title" => t("Om Sidan")
             ],
 
-            "grid" => [
-                "text"  => t("Grid"),
-                "url"   => $this->di->get("url")->create("grid"),
-                "title" => t("Visa kolumner"),
-            ],
-
-            "typography" => [
-                "text"  => t("Typografi"),
-                "url"   => $this->di->get("url")->create("typography"),
-                "title" => t("Testa typografi"),
-            ],
-
-            "analysis" => [
-                "text"  => t("Analys"),
-                "url"   => $this->di->get("url")->create("analysis/intro"),
-                "title" => t("Analys av 4 sidor"),
+            "assignments" => [
+                "text"  => t("Uppgifter"),
+                "url"   => $this->di->get("url")->create("assignments"),
+                "title" => t("Uppgifter"),
                 "mark-if-parent" => true,
-            ],
+                "submenu" => [
 
-            "theme" => [
-                "text"  => t("Teman"),
-                "url"   => $this->di->get("url")->create("theme"),
-                "title" => t("Teman"),
-            ],
+                    "items" => [
 
+                        "blog" => [
+                            "text"  => t("Blogg"),
+                            "url"   => $this->di->get("url")->create("blogg"),
+                            "title" => t("Min blogg"),
+                        ],
 
-            "testcode" => [
-                "text"  => t("Testa Kod"),
-                "url"   => $this->di->get("url")->create("testcode"),
-                "title" => t("Om Sidan")
+                        "images" => [
+                            "text"  => t("Bilder"),
+                            "url"   => $this->di->get("url")->create("images"),
+                            "title" => t("Bilder")
+                        ],
+
+                        "analysis" => [
+                            "text"  => t("Analys"),
+                            "url"   => $this->di->get("url")->create("analysis/intro"),
+                            "title" => t("Analys av 4 sidor"),
+                            "mark-if-parent" => true,
+                        ],
+
+                        "theme" => [
+                            "text"  => t("Teman"),
+                            "url"   => $this->di->get("url")->create("theme"),
+                            "title" => t("Teman"),
+                        ],
+
+                        "typography" => [
+                            "text"  => t("Typografi"),
+                            "url"   => $this->di->get("url")->create("typography"),
+                            "title" => t("Testa typografi"),
+                        ],
+
+                        "grid" => [
+                            "text"  => t("Grid"),
+                            "url"   => $this->di->get("url")->create("grid"),
+                            "title" => t("Visa kolumner"),
+                        ],
+
+                        "testcode" => [
+                            "text"  => t("Testa Kod"),
+                            "url"   => $this->di->get("url")->create("testcode"),
+                            "title" => t("Om Sidan")
+                        ],
+                    ],
+                ],
             ],
         ],
     ],
@@ -101,36 +124,103 @@ return [
                 "title" => t("Om Sidan")
             ],
 
-            "grid" => [
-                "text"  => t("Grid"),
-                "url"   => $this->di->get("url")->create("grid"),
-                "title" => t("Visa kolumner"),
-            ],
-
-            "typography" => [
-                "text"  => t("Typografi"),
-                "url"   => $this->di->get("url")->create("typography"),
-                "title" => t("Testa typografi"),
-            ],
-
-            "analysis" => [
-                "text"  => t("Analys"),
-                "url"   => $this->di->get("url")->create("analysis"),
-                "title" => t("Analys av 4 sidor"),
+            "assignments" => [
+                "text"  => t("Uppgifter"),
+                "url"   => $this->di->get("url")->create("assignments"),
+                "title" => t("Uppgifter"),
                 "mark-if-parent" => true,
+                "submenu" => [
+
+                    "items" => [
+
+                        "blog" => [
+                            "text"  => t("Blogg"),
+                            "url"   => $this->di->get("url")->create("blogg"),
+                            "title" => t("Min blogg"),
+                        ],
+
+                        "images" => [
+                            "text"  => t("Bilder"),
+                            "url"   => $this->di->get("url")->create("images"),
+                            "title" => t("Bilder")
+                        ],
+
+                        "analysis" => [
+                            "text"  => t("Analys"),
+                            "url"   => $this->di->get("url")->create("analysis/intro"),
+                            "title" => t("Analys av 4 sidor"),
+                            "mark-if-parent" => true,
+                        ],
+
+                        "theme" => [
+                            "text"  => t("Teman"),
+                            "url"   => $this->di->get("url")->create("theme"),
+                            "title" => t("Teman"),
+                        ],
+
+                        "typography" => [
+                            "text"  => t("Typografi"),
+                            "url"   => $this->di->get("url")->create("typography"),
+                            "title" => t("Testa typografi"),
+                        ],
+
+                        "grid" => [
+                            "text"  => t("Grid"),
+                            "url"   => $this->di->get("url")->create("grid"),
+                            "title" => t("Visa kolumner"),
+                        ],
+
+                        "testcode" => [
+                            "text"  => t("Testa Kod"),
+                            "url"   => $this->di->get("url")->create("testcode"),
+                            "title" => t("Om Sidan")
+                        ],
+                    ],
+                ],
             ],
 
-            "theme" => [
-                "text"  => t("Teman"),
-                "url"   => $this->di->get("url")->create("theme"),
-                "title" => t("Teman"),
-            ],
+            // "blog" => [
+            //     "text"  => t("Blogg"),
+            //     "url"   => $this->di->get("url")->create("blogg"),
+            //     "title" => t("Min blogg"),
+            // ],
+            //
+            // "grid" => [
+            //     "text"  => t("Grid"),
+            //     "url"   => $this->di->get("url")->create("grid"),
+            //     "title" => t("Visa kolumner"),
+            // ],
+            //
+            // "typography" => [
+            //     "text"  => t("Typografi"),
+            //     "url"   => $this->di->get("url")->create("typography"),
+            //     "title" => t("Testa typografi"),
+            // ],
+            //
+            // "images" => [
+            //     "text"  => t("Bilder"),
+            //     "url"   => $this->di->get("url")->create("images"),
+            //     "title" => t("Bilder")
+            // ],
+            //
+            // "analysis" => [
+            //     "text"  => t("Analys"),
+            //     "url"   => $this->di->get("url")->create("analysis"),
+            //     "title" => t("Analys av 4 sidor"),
+            //     "mark-if-parent" => true,
+            // ],
+            //
+            // "theme" => [
+            //     "text"  => t("Teman"),
+            //     "url"   => $this->di->get("url")->create("theme"),
+            //     "title" => t("Teman"),
+            // ],
 
-            "testcode" => [
-                "text"  => t("Testa Kod"),
-                "url"   => $this->di->get("url")->create("testcode"),
-                "title" => t("Om Sidan")
-            ],
+            // "testcode" => [
+            //     "text"  => t("Testa Kod"),
+            //     "url"   => $this->di->get("url")->create("testcode"),
+            //     "title" => t("Om Sidan")
+            // ],
         ],
     ],
 

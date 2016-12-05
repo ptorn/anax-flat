@@ -1,4 +1,4 @@
 Introduktion
 ===============================
 
-Här följer en rapport om min färganalys.
+Här kan ni läsa mina analyser gjorda i design-kursen.
