@@ -78,5 +78,57 @@ return [
                 "css/fun.min.css"
             ]
         ],
+
+        "separator3" => "------------------------------------------------",
+
+        "depth"       => [
+            "title"      => "Depth",
+            "class"      => "depth",
+            "stylesheets" => [
+                "css/depth.min.css"
+            ]
+        ],
+
+        "repetition"       => [
+            "title"      => "Repetition",
+            "class"      => "repetition",
+            "stylesheets" => [
+                "css/repetition.min.css"
+            ]
+        ],
+
+        "contrast"       => [
+            "title"      => "Contrast",
+            "class"      => "contrast",
+            "stylesheets" => [
+                "css/contrast.min.css"
+            ]
+        ],
+
+        "separator4" => "------------------------------------------------",
+
+        "backgroundimage"       => [
+            "title"      => "BackgroundImage",
+            "class"      => "Display background image",
+            "stylesheets" => [
+                "css/backgroundimage.min.css"
+            ]
+        ],
+
+        "repetition"       => [
+            "title"      => "Repetition",
+            "class"      => "repetition",
+            "stylesheets" => [
+                "css/repetition.min.css"
+            ]
+        ],
+
+        "contrast"       => [
+            "title"      => "Contrast",
+            "class"      => "contrast",
+            "stylesheets" => [
+                "css/contrast.min.css"
+            ]
+        ],
     ]
 ];
