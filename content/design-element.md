@@ -9,12 +9,19 @@ Använd [temaväljaren](theme-selector) för att kika på dem.
 
 ##Background-Image##
 
-Detta tema bygger på light och har en fixerad backgrundsbild.
+Temat har en fixerad backgrundsbild som en cover bild. Jag har gjort main delen på sidan transparent så att bakgrunden släpps igenom. Jag har även lagt till border på dom olika sektionerna samt lagt en sepparatar mellan blogginläggen och som avgränsare till sidebaren. Jag valde även i denna att låta innehållet sträckas ut över hela skärmen.
 
-##Repetition##
+**Krav 3, 6, 7, 8, 9**
 
-Detta temat bygger också på color. Här har jag att använda mig utav repetition för att pusha på min logotype. Det har jag gjort genom att lägga den som backgrundsbild där den repeteras genom hela bakgrunden. Jag flyttade ner main 90px i mobiltläge bara för att det ska kunna illustreras där också.
+##Background-Gradient##
 
-##Kontrast##
+Temat har gradienter i header, main och footer. Svaga nyanskillnader för att lyfta sidan. Det börjar med ljusare i toppen och när man scrollar neråt så blir det en gradient som styr övergången ner mot den mörkare footern. Jag har här lagt till ett grönt häftstift till varje h1-tag på webbsidan. Likaså så har jag under bloggen där alla inlägg listas satt en tejpbit uppe i högra hörnet på varje bild. Dessa bilder syns bäst på bloggsidan.
 
-Detta temat bygger på mitt mörka tema som bygger på kontrast mellan vitt och svart. Där bakgrunden är vit är texten svart och därbakgrunden är svart så är texten vit.
+**Krav 5, 10**
+
+##Background-Texture##
+
+Här har jag jobbat med en fixed texture som jag kör i botten på sidan som övriga delar scrollar över. Jag har även gjort så att menyn i headern på enheter med minst 960px är fixed längst upp med en skugga för att lyfta loss den från sidan. Övriga element flyter över texturbakgrunden och bylinen har en svag opacity som gör att bakgrunden lyser igenom.
+Jag använder även gradienter i headern och fottern.
+
+**Krav 4, 5, 6, 7**

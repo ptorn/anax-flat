@@ -6,7 +6,7 @@ Laddningstid och användbarhet
 
 ##1. Aftonbladet.se##
 
-Jag tänkte att jag börjar med en sida som [http://www.aftonbladet.se](Aftonbladet.se) som är en ganska stor sida med mycket bilder och information för att testa en stor och skaffa mig lite referensramar.
+Jag tänkte att jag börjar med en sida som [Aftonbladet.se](http://www.aftonbladet.se) som är en ganska stor sida med mycket bilder och information för att testa en stor och skaffa mig lite referensramar.
 
 <div class="google-iframe">
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTX4vkdVg8oogpg1VfffcY-IA8I1ylv_HJBrBjdriGsXK0hsRvg8qcZ22ydmi8_jlYqv1T6XCXS530S/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
@@ -19,7 +19,7 @@ Det som Aftonbladet.se bör göra för att förbättra sin sida är att ta bort 
 
 ##2. Expressen.se##
 
-[http://www.expressen.se](Expressen.se) är min andra analys för att jämföra mot konkurenten som jag precis har analyserat.
+[Expressen.se](http://www.expressen.se) är min andra analys för att jämföra mot konkurenten som jag precis har analyserat.
 
 <div class="google-iframe">
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTX4vkdVg8oogpg1VfffcY-IA8I1ylv_HJBrBjdriGsXK0hsRvg8qcZ22ydmi8_jlYqv1T6XCXS530S/pubhtml?gid=731126619&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
@@ -30,7 +30,7 @@ Här behöver man se till att även här göra något åt JavaScripten och CSS r
 
 ##3. Smp.se##
 
-[http://www.smp.se](Smp.se) är en lokaltidning i kronoberg som jag valt att testa och jämföra i mina reflektioner senare om man kan se några direkta skillnader i hur dom större tidningarna kontra dom mindre lokaltidningarna har valt att lösa sin hemsida.
+[Smp.se](http://www.smp.se) är en lokaltidning i kronoberg som jag valt att testa och jämföra i mina reflektioner senare om man kan se några direkta skillnader i hur dom större tidningarna kontra dom mindre lokaltidningarna har valt att lösa sin hemsida.
 
 <div class="google-iframe">
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTX4vkdVg8oogpg1VfffcY-IA8I1ylv_HJBrBjdriGsXK0hsRvg8qcZ22ydmi8_jlYqv1T6XCXS530S/pubhtml?gid=1607641543&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
@@ -40,7 +40,7 @@ Här behöver man se till att även här göra något åt JavaScripten och CSS r
 Även här så finns det JavaScript som hindrar "over-the-fold" innehåll att renderas föräns JavaScripten har laddats vilket resulterar i en lång laddningstid. Likaså kan dom använda webbläsarens caching. Både JavaScript och CSS behöver minifieras för att spara data. För att få ner trafiken så kan man även komprimera datan som skickas. Bilderna kan optimeras ytterliggare och prioritera det synliga innehållet.
 
 ##4. GP.se##
-[http://www.gp.se](Gp.se) är en dagstidning i Göteborg. Efter att ha letat efter lokaltidningar och stött på att många använder samma wordpress tema som smp.se så valde jag att analysera Gp.se som ni kan se i tabellen nedan.
+[Gp.se](http://www.gp.se) är en dagstidning i Göteborg. Efter att ha letat efter lokaltidningar och stött på att många använder samma wordpress tema som smp.se så valde jag att analysera Gp.se som ni kan se i tabellen nedan.
 
 <div class="google-iframe">
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTX4vkdVg8oogpg1VfffcY-IA8I1ylv_HJBrBjdriGsXK0hsRvg8qcZ22ydmi8_jlYqv1T6XCXS530S/pubhtml?gid=250457401&amp;single=true&amp;widget=true&amp;headers=false"></iframe>

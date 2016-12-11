@@ -34,7 +34,7 @@ Fungerar alltid att sätta på deras foritfilm en kort stund för att sänka pul
 Bilden är tagen med kameran på baksidan på en Samsung Galaxy Note 4 och standard inställningarna.
 
 <figure class="figure left w25">
-<a href="image/blogg/20161204_124729.jpg"><img src="image/blogg/20161204_124729.jpg?aro&w=300&h=300&a=35,0,35,30&cf" alt=""/></a>
+<a href="image/blogg/20161204_124729.jpg"><img src="image/blogg/20161204_124729.jpg?aro&w=300&h=300&a=37,0,36,45&cf" alt=""/></a>
 <figcaption markdown=1>Min laptop</figcaption>
 </figure>
 

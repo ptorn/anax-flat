@@ -14,7 +14,8 @@ När jag inte pluggar på BTH så jobbar jag heltid och kopplar av till en bra f
 
 Men mest av allt så ser jag varje dag fram emot att busa med mina pojkar Kaden och Noah som är 5 och 2 år gamla. Dom är solstrålarna som förgyller livet.
 
+<p align="center" markdown=1>
 ![Peder Tornberg](../htdocs/img/me.jpg)
-
+</p>
 
 /Peder

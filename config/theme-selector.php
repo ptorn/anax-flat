@@ -107,27 +107,27 @@ return [
 
         "separator4" => "------------------------------------------------",
 
-        "backgroundimage"       => [
-            "title"      => "BackgroundImage",
-            "class"      => "Display background image",
+        "background-image"       => [
+            "title"      => "Background Image",
+            "class"      => "background-image",
             "stylesheets" => [
-                "css/backgroundimage.min.css"
+                "css/background-image.min.css"
             ]
         ],
 
-        "repetition"       => [
-            "title"      => "Repetition",
-            "class"      => "repetition",
+        "background-gradient"       => [
+            "title"      => "Background Gradient",
+            "class"      => "background-gradient",
             "stylesheets" => [
-                "css/repetition.min.css"
+                "css/background-gradient.min.css"
             ]
         ],
 
-        "contrast"       => [
-            "title"      => "Contrast",
-            "class"      => "contrast",
+        "background-texture"       => [
+            "title"      => "Background Texture",
+            "class"      => "background-texture",
             "stylesheets" => [
-                "css/contrast.min.css"
+                "css/background-texture.min.css"
             ]
         ],
     ]
