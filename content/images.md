@@ -5,14 +5,14 @@ Bilder
 ==============================================
 
 It is some systematized exhibition of the whale in his broad genera, that I would now fain put before you. Yet is it no easy task. The classification of the constituents of a chaos, nothing less is here essayed. Listen to what the best and latest authorities have laid down.
-[FIGURE class="left w25" src="image/dbwebbisar.jpg?w=500" caption="Här kör vi width: 25% och till vänster."]
+[FIGURE class="left w25" src="image/dbwebbisar.jpg?w=450" caption="Här kör vi width: 25% och till vänster."]
 
 "No branch of Zoology is so much involved as that which is entitled Cetology," says Captain Scoresby, A.D. 1820.
 
 "It is not my intention, were it in my power, to enter into the inquiry as to the true method of dividing the cetacea into groups and families.... Utter confusion exists among the historians of this animal" (sperm whale), says Surgeon Beale, A.D. 1839.
 
 "Unfitness to pursue our research in the unfathomable waters." "Impenetrable veil covering our knowledge of the cetacea." "A field strewn with thorns." "All these incomplete indications but serve to torture us naturalists."
-[FIGURE class="right w25" src="image/dbwebbisar.jpg?w=500" caption="Här kör vi width: 25% och till höger."]
+[FIGURE class="right w25" src="image/dbwebbisar.jpg?w=450" caption="Här kör vi width: 25% och till höger."]
 
 
 Thus speak of the whale, the great Cuvier, and John Hunter, and Lesson, those lights of zoology and anatomy. Nevertheless, though of real knowledge there be little, yet of books there are a plenty; and so in some small degree, with cetology, or the science of whales. Many are the men, small and great, old and new, landsmen and seamen, who have at large or in little, written of the whale. Run over a few:—The Authors of the Bible; Aristotle; Pliny; Aldrovandi; Sir Thomas Browne; Gesner; Ray; Linnaeus; Rondeletius; Willoughby; Green; Artedi; Sibbald; Brisson; Marten; Lacepede; Bonneterre; Desmarest; Baron Cuvier; Frederick Cuvier; John Hunter; Owen; Scoresby; Beale; Bennett; J. Ross Browne; the Author of Miriam Coffin; Olmstead; and the Rev. T. Cheever. But to what ultimate generalizing purpose all these have written, the above cited extracts will show.
@@ -23,7 +23,7 @@ Of the names in this list of whale authors, only those following Owen ever saw l
 
 
 There are only two books in being which at all pretend to put the living sperm whale before you, and at the same time, in the remotest degree succeed in the attempt. Those books are Beale's and Bennett's; both in their time surgeons to English South-Sea whale-ships, and both exact and reliable men. The original matter touching the sperm whale to be found in their volumes is necessarily small; but so far as it goes, it is of excellent quality, though mostly confined to scientific description. As yet, however, the sperm whale, scientific or poetic, lives not complete in any literature. Far above all other hunted whales, his is an unwritten life.
-[FIGURE class="center w75" src="image/dbwebbisar.jpg?w=750" caption="Här kör vi width: 75% och centrerad."]
+[FIGURE class="center w75" src="image/dbwebbisar.jpg?w=725" caption="Här kör vi width: 75% och centrerad."]
 
 Now the various species of whales need some sort of popular comprehensive classification, if only an easy outline one for the present, hereafter to be filled in all its departments by subsequent laborers. As no better man advances to take this matter in hand, I hereupon offer my own poor endeavors. I promise nothing complete; because any human thing supposed to be complete, must for that very reason infallibly be faulty. I shall not pretend to a minute anatomical description of the various species, or—in this place at least—to much of any description. My object here is simply to project the draught of a systematization of cetology. I am the architect, not the builder.
 [FIGURE class="center w100" src="image/dbwebbisar.jpg?w=960" caption="Här kör vi width: 100% och centrerad."]
