@@ -6,7 +6,7 @@ Färgschema
 
 ##1. Posten.se##
 
-![Posten.se](../htdocs/img/analysis/1_posten.png)
+![Posten.se](../htdocs/image/analysis/1_posten.png?w=633&a=0,0,1,0&cf)
 
 [Posten.se](http://www.posten.se) har jag analyserat där verksamheten står för en av dom viktigaste funktionerna i samhället.
 Så nu ska vi se hur dom framstår enligt färganalysen.
@@ -36,7 +36,7 @@ Sidan är gjord i en ljusblå stil som som känns väldigt luftig. Färgen blå 
 
 ##2. Apoteket.se##
 
-![Apoteket.se](../htdocs/img/analysis/2_apoteket.png)
+![Apoteket.se](../htdocs/image/analysis/2_apoteket.png?w=633&a=0,0,1,0&cf)
 
 [Apoteket.se](http://www.apoteket.se) är den andra webbplatsen som jag har valt att analysera vilket också har en viktig samhällsfunktion.
 
@@ -65,7 +65,7 @@ Grönt upplevs lugnande och uppfriskande. Färgen grön står bland annat för f
 
 ##3. Python.org##
 
-![Python.org](../htdocs/img/analysis/3_python.png)
+![Python.org](../htdocs/image/analysis/3_python.png?w=633&a=0,0,1,0&cf)
 
 [Python.org](https://www.python.org/) är den tredje webbplatsen som jag har valt att analysera. Här ser man att färgerna har sin grund i deras logotyp.
 
@@ -111,7 +111,7 @@ Här är det en sida som går i mest blått vilket ger ett auktoriativ, balanser
 
 ##4. Vecka.nu##
 
-![Vecka.nu](../htdocs/img/analysis/3_vecka.png)
+![Vecka.nu](../htdocs/image/analysis/3_vecka.png?w=633&a=0,0,5.8,0&cf)
 
 [Vecka.nu](http://www.vecka.nu/) är den fjärde webbplatsen som jag har valt att analysera. Detta är en extremt enkel hemsida med ett syfte. Att förmedla veckans veckonummer.
 

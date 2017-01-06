@@ -8,8 +8,7 @@ Pappa med sina pojkar
 ==================================
 
 <figure class="figure center">
-<!-- <a href="image/blogg/20161204_092558.jpg"><img src="image/blogg/20161204_092558.jpg?w=700&h=150&a=0,20,20,50&cf" alt=""/></a> -->
-<a href="image/blogg/20161204_145235.jpg"><img src="image/blogg/20161204_145235.jpg?aro&w=960&h=200&a=30,0,30,0&cf" alt=""/></a>
+<a href="image/blogg/20161204_145235.jpg"><img src="image/blogg/20161204_145235.jpg?aro&w=960&h=195&a=30,0,30,0&cf" alt=""/></a>
 
 </figure>
 

@@ -156,7 +156,7 @@ return [
                             "url"   => $this->di->get("url")->create("design-principle"),
                             "title" => t("Designprinciper")
                         ],
-                        
+
                         "blog" => [
                             "text"  => t("Blogg"),
                             "url"   => $this->di->get("url")->create("blogg"),

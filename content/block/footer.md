@@ -1,4 +1,4 @@
-Copyright &copy; 2016 Peder Tornberg peder.tornberg@gmail.com
+Copyright &copy; 2016 Peder Tornberg
 
 * [License](license)
 * [Cookies](cookies)

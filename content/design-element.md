@@ -1,5 +1,5 @@
 ---
-titleBreadcrumb: Designprinciper
+titleBreadcrumb: Designelement
 ...
 Teman med olika designelement
 ==============================================
