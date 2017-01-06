@@ -1,4 +1,4 @@
-Introduction
+Introduktion
 ===============================
 
-Here are my reports for the different kmoms.
+Här presenteras alla mina rapporter för dom olika momenten.
