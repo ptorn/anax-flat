@@ -8,7 +8,6 @@ if (isset($class)) {
 // Defaults
 $category = isset($category) ? $category : [];
 
-
 // Get time for publish/update/create
 list($pubStr, $published) = $this->getPublishedDate(get_defined_vars());
 
@@ -30,6 +29,8 @@ $byStr = t("Av !AUTHORS.", ["!AUTHORS" => $authorStr]);
 
 
 // Add meta header to h1
+$pubStr = "Publicerad";//Peder
+
 $header = <<<EOD
 <header>
     <h1\$1>\$2</h1>
