@@ -8,7 +8,7 @@ Peder Tornberg heter jag och jag är en 34 årig småbarnsförälder. Born and r
 
 Jag läser distansprogrammet "Webbprogrammering" på BTH. Har programmerat sedan mitten på 90-talet och har genom åren kommit i kontakt med Visaul Basic, TI-BASIC, HTML, PHP, CSS, JavaScript, jQuery. Samt det senaste tillskottet som jag kom i kontakt med här på BTH nämligen Python.
 
-Ser fram emot att ta mig an denna kursen i javascript och fräsha upp och lära mig nya saker inom området.
+Ser fram emot att ta mig an denna kursen i design och fräsha upp och lära mig nya saker inom området.
 
 När jag inte pluggar på BTH så jobbar jag heltid och kopplar av till en bra film i hemmabiot. Det har blivit en hel del filmer genom åren. Det är något med just envägskommunbikationen där man endast ska ta intryck och inte ge något tillbaka som är avkopplingen.
 
